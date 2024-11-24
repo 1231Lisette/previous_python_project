@@ -1,0 +1,1995 @@
+filename,predicted_label
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Go left or straight
+tensor(0),Speed limit (15km/h)
+tensor(0),Speed limit (15km/h)
+tensor(0),Speed limit (15km/h)
+tensor(0),Speed limit (15km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Go left or straight
+tensor(0),Speed limit (15km/h)
+tensor(0),Speed limit (15km/h)
+tensor(0),Speed limit (15km/h)
+tensor(0),Speed limit (15km/h)
+tensor(0),Speed limit (5km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Give Way
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Give Way
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Give Way
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Give Way
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),No stopping
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),No stopping
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Dont Go Right
+tensor(0),Speed limit (60km/h)
+tensor(0),watch out for cars
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Dont Go Left
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),watch out for cars
+tensor(0),Stop and give way
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (30km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Dont Go Right
+tensor(0),Speed limit (60km/h)
+tensor(0),watch out for cars
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Dont Go Left
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),watch out for cars
+tensor(0),Stop and give way
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (70km/h)
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Speed limit (70km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),watch out for cars
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),watch out for cars
+tensor(0),Stop and give way
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),Speed limit (40km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),watch out for cars
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),watch out for cars
+tensor(0),Stop and give way
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (50km/h)
+tensor(0),speed limit (80km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go straight
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),No stopping
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Speed limit (5km/h)
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),No stopping
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Speed limit (5km/h)
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Left
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Children crossing
+tensor(0),Speed limit (60km/h)
+tensor(0),Dont Go Left
+tensor(0),Go left or straight
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Left
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Children crossing
+tensor(0),Speed limit (60km/h)
+tensor(0),Dont Go Left
+tensor(0),Go left or straight
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont Go Right
+tensor(0),Dont overtake from Left
+tensor(0),Dont overtake from Left
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Dont overtake from Left
+tensor(0),Dont overtake from Left
+tensor(0),Dont overtake from Left
+tensor(0),Dont overtake from Left
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Dont overtake from Left
+tensor(0),Dont overtake from Left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),watch out for cars
+tensor(0),Dont Go Left
+tensor(0),Speed limit (60km/h)
+tensor(0),keep Right
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Roundabout mandatory
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),watch out for cars
+tensor(0),Dont Go Left
+tensor(0),Speed limit (60km/h)
+tensor(0),keep Right
+tensor(0),Dont Go straight or left
+tensor(0),Dont Go straight or left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Roundabout mandatory
+tensor(0),Dont Go straight or left
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No horn
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No horn
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No Car
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),Speed limit (50km/h)
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),Speed limit (50km/h)
+tensor(0),Dont Go Left or Right
+tensor(0),Speed limit (50km/h)
+tensor(0),No horn
+tensor(0),Dont Go straight
+tensor(0),No horn
+tensor(0),Stop and give way
+tensor(0),Speed limit (50km/h)
+tensor(0),Dont Go Left or Right
+tensor(0),No horn
+tensor(0),Continuous Detours
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),Stop and give way
+tensor(0),No horn
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),Speed limit (50km/h)
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),Speed limit (50km/h)
+tensor(0),Dont Go Left or Right
+tensor(0),Speed limit (50km/h)
+tensor(0),No horn
+tensor(0),Dont Go straight
+tensor(0),No horn
+tensor(0),Stop and give way
+tensor(0),Speed limit (50km/h)
+tensor(0),Dont Go Left or Right
+tensor(0),No horn
+tensor(0),Continuous Detours
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),Stop and give way
+tensor(0),No horn
+tensor(0),Dont Go Left or Right
+tensor(0),Dont Go Left or Right
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),No horn
+tensor(0),Go straight or right
+tensor(0),Go straight or right
+tensor(0),Go straight
+tensor(0),Go straight
+tensor(0),Go straight or right
+tensor(0),Go straight or right
+tensor(0),Go straight or right
+tensor(0),Go straight or right
+tensor(0),Go straight
+tensor(0),Go straight
+tensor(0),Go straight or right
+tensor(0),Go straight or right
+tensor(0),Go straight or right
+tensor(0),Go straight or right
+tensor(0),Go Left
+tensor(0),Go Left
+tensor(0),Go Left
+tensor(0),Go Left
+tensor(0),Go Left
+tensor(0),Go Left
+tensor(0),Go Left
+tensor(0),Go Left
+tensor(0),Go Left or right
+tensor(0),Go Left or right
+tensor(0),Go Left or right
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Go Left or right
+tensor(0),Go Left or right
+tensor(0),Go Left or right
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Bicycles crossing
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Bicycles crossing
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Go Right
+tensor(0),Speed limit (60km/h)
+tensor(0),Speed limit (60km/h)
+tensor(0),Go Right
+tensor(0),keep Left
+tensor(0),keep Left
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),No stopping
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),Dangerous curve to the left
+tensor(0),keep Right
+tensor(0),Villages Ahead
+tensor(0),keep Right
+tensor(0),No stopping
+tensor(0),keep Right
+tensor(0),Roundabout mandatory
+tensor(0),speed limit (80km/h)
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),No stopping
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),Roundabout mandatory
+tensor(0),No stopping
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),No stopping
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),Dangerous curve to the left
+tensor(0),keep Right
+tensor(0),Villages Ahead
+tensor(0),keep Right
+tensor(0),No stopping
+tensor(0),keep Right
+tensor(0),Roundabout mandatory
+tensor(0),speed limit (80km/h)
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),No stopping
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),Roundabout mandatory
+tensor(0),No stopping
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),keep Right
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Bicycles crossing
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Bicycles crossing
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),Roundabout mandatory
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),Stop and give way
+tensor(0),Dangerous curve to the left
+tensor(0),No stopping
+tensor(0),Bicycles crossing
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),Stop and give way
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),Stop and give way
+tensor(0),Dangerous curve to the left
+tensor(0),No stopping
+tensor(0),Bicycles crossing
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),Stop and give way
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),watch out for cars
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Horn
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Horn
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),No stopping
+tensor(0),Horn
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Horn
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),No stopping
+tensor(0),Horn
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Uturn
+tensor(0),Go straight
+tensor(0),Uturn
+tensor(0),Uturn
+tensor(0),Bicycles crossing
+tensor(0),Go straight
+tensor(0),Speed limit (60km/h)
+tensor(0),Uturn
+tensor(0),Uturn
+tensor(0),Uturn
+tensor(0),Go straight
+tensor(0),Uturn
+tensor(0),Uturn
+tensor(0),Bicycles crossing
+tensor(0),Go straight
+tensor(0),Speed limit (60km/h)
+tensor(0),Uturn
+tensor(0),Uturn
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Go right or straight
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Go right or straight
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Bicycles crossing
+tensor(0),Bicycles crossing
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Road Divider
+tensor(0),Road Divider
+tensor(0),Children crossing
+tensor(0),Children crossing
+tensor(0),Slow Down
+tensor(0),Go left or straight
+tensor(0),Children crossing
+tensor(0),Children crossing
+tensor(0),Go left or straight
+tensor(0),Slow Down
+tensor(0),Children crossing
+tensor(0),Slow Down
+tensor(0),Children crossing
+tensor(0),Road Divider
+tensor(0),Road Divider
+tensor(0),Children crossing
+tensor(0),Children crossing
+tensor(0),Slow Down
+tensor(0),Go left or straight
+tensor(0),Children crossing
+tensor(0),Children crossing
+tensor(0),Go left or straight
+tensor(0),Slow Down
+tensor(0),Children crossing
+tensor(0),Slow Down
+tensor(0),Children crossing
+tensor(0),Dangerous curve to the left
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Villages Ahead
+tensor(0),Villages Ahead
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the left
+tensor(0),ZigZag Curve
+tensor(0),Dangerous curve to the left
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the left
+tensor(0),Villages Ahead
+tensor(0),ZigZag Curve
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Villages Ahead
+tensor(0),Villages Ahead
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the left
+tensor(0),ZigZag Curve
+tensor(0),Dangerous curve to the left
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the left
+tensor(0),Villages Ahead
+tensor(0),ZigZag Curve
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the right
+tensor(0),Slow Down
+tensor(0),Road Divider
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Villages Ahead
+tensor(0),Downhill
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Villages Ahead
+tensor(0),Downhill
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Slow Down
+tensor(0),Road Divider
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Villages Ahead
+tensor(0),Downhill
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Villages Ahead
+tensor(0),Downhill
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Downhill
+tensor(0),Downhill
+tensor(0),Downhill
+tensor(0),Downhill
+tensor(0),Downhill
+tensor(0),Downhill
+tensor(0),Downhill
+tensor(0),Downhill
+tensor(0),Uphill
+tensor(0),Uphill
+tensor(0),Uphill
+tensor(0),Uphill
+tensor(0),Uphill
+tensor(0),Uphill
+tensor(0),Uphill
+tensor(0),Uphill
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Villages Ahead
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Villages Ahead
+tensor(0),Slow Down
+tensor(0),Slow Down
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Go right or straight
+tensor(0),Continuous Detours
+tensor(0),Villages Ahead
+tensor(0),Go left or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Villages Ahead
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Dangerous curve to the right
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Villages Ahead
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Danger Ahead
+tensor(0),Danger Ahead
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Villages Ahead
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Zebra Crossing
+tensor(0),Zebra Crossing
+tensor(0),Go right or straight
+tensor(0),Continuous Detours
+tensor(0),Villages Ahead
+tensor(0),Go left or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Villages Ahead
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Dangerous curve to the right
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Villages Ahead
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Danger Ahead
+tensor(0),Danger Ahead
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Villages Ahead
+tensor(0),Slow Down
+tensor(0),Go left or straight
+tensor(0),ZigZag Curve
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Go left or straight
+tensor(0),Dangerous curve to the left
+tensor(0),Slow Down
+tensor(0),Go left or straight
+tensor(0),ZigZag Curve
+tensor(0),Go left or straight
+tensor(0),Go left or straight
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Dangerous curve to the left
+tensor(0),Go left or straight
+tensor(0),Dangerous curve to the left
+tensor(0),Villages Ahead
+tensor(0),Villages Ahead
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the right
+tensor(0),Villages Ahead
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the right
+tensor(0),Villages Ahead
+tensor(0),Villages Ahead
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Dangerous curve to the right
+tensor(0),Train Crossing
+tensor(0),Train Crossing
+tensor(0),Train Crossing
+tensor(0),Train Crossing
+tensor(0),Train Crossing
+tensor(0),Train Crossing
+tensor(0),Train Crossing
+tensor(0),Train Crossing
+tensor(0),Train Crossing
+tensor(0),Train Crossing
+tensor(0),Under Construction
+tensor(0),Under Construction
+tensor(0),Under Construction
+tensor(0),Under Construction
+tensor(0),Under Construction
+tensor(0),Under Construction
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Go left or straight
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Slow Down
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Go left or straight
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Slow Down
+tensor(0),Continuous Detours
+tensor(0),Continuous Detours
+tensor(0),Go right or straight
+tensor(0),Go right or straight
+tensor(0),Continuous Detours
+tensor(0),Heavy Vehicle Accidents
+tensor(0),Downhill
+tensor(0),Speed limit (60km/h)
+tensor(0),Slow Down
+tensor(0),Stop and give way
+tensor(0),Uphill
+tensor(0),Slow Down
+tensor(0),Heavy Vehicle Accidents
+tensor(0),Fences
+tensor(0),Fences
+tensor(0),Heavy Vehicle Accidents
+tensor(0),Downhill
+tensor(0),Speed limit (60km/h)
+tensor(0),Slow Down
+tensor(0),Stop and give way
+tensor(0),Uphill
+tensor(0),Slow Down
+tensor(0),Heavy Vehicle Accidents
+tensor(0),Fences
+tensor(0),Fences
+tensor(0),Heavy Vehicle Accidents
+tensor(0),Heavy Vehicle Accidents
+tensor(0),Heavy Vehicle Accidents
+tensor(0),Heavy Vehicle Accidents
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),Give Way
+tensor(0),Give Way
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),Roundabout mandatory
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),Roundabout mandatory
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),Dont Go Left
+tensor(0),No Car
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),Speed limit (60km/h)
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),Dont Go Left
+tensor(0),No Car
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No stopping
+tensor(0),No stopping
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),Speed limit (60km/h)
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),No entry
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Horn
+tensor(0),Stop and give way
+tensor(0),Dangerous curve to the left
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Stop and give way
+tensor(0),Horn
+tensor(0),Stop and give way
+tensor(0),Dangerous curve to the left
+tensor(0),Parking Inspection
+tensor(0),Parking Inspection
+tensor(0),Parking Inspection
+tensor(0),Parking Inspection
